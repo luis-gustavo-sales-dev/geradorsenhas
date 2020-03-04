@@ -1,7 +1,7 @@
 FILEBASE="/home/luis/scripts/geradorsenha/github/alias.txt"
 echo "### Você pode adicionar um alias diretamente no arquivo alias.txt"
 echo "### LOGINs padroes segundo alias.txt"
-grep "VariaveisGeradorSenhas" -A 8 ~/.bashrc
+grep "#Variaveisgeradorsenha" -A 8 ~/.bashrc
 read -p "Informa a URL: " URL
 read -p "Login: " LOGIN
 read -p "Tamanho: " TAMANHO
