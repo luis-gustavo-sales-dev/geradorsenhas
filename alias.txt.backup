@@ -1,12 +1,4 @@
 ##GeradorSenhas
-export GMAIL='luisgssf@gmail.com'
-export YAHOO='luisgssf2@yahoo.com.br'
-export HOTMAIL='luisgnsales2@hotmail.com'
-export CPF='12244264793'
-export IFF='luis.sales@iff.edu.br'
-export USERNAME1='cryzander'
-export USERNAME2='luisgssf'
-export USERNAME3='luis.sales'
 source /etc/profile.d/rvm.sh
 rvm use 2.5.1
 alias gerarSenha="ruby /home/luis/scripts/geradorsenha/gerador_senha_newest.rb"
@@ -15,14 +7,14 @@ alias gerarSenhaFacebook="gerarSenha -d www.facebook.com -l $HOTMAIL -t 16 -s so
 alias gerarSenhaCloudCampus="gerarSenha -d cursos.cloudcampus.cc -l $YAHOO -s estudo -t 16"
 alias gerarSenhaB2sShare="gerarSenha -d www.b2s-share.com -l gust -t 16 -s entretenimento"
 alias gerarSenhaTheRebels="gerarSenha -d therebels.us -l $USERNAME1 -t 16 -s entretenimento"
-alias gerarSenhaSubmarino="gerarSenha  -d cliente.submarino.com.br -l $YAHOO -s compra -t 16"
+alias gerarSenhaSubmarino="gerarSenha  -d cliente.submarino.com.br -l $YAHOO -s compra -t 16"
 alias gerarSenhaLinkedin="gerarSenha -d www.linkedin.com -l $YAHOO -t 16 -s social"
 alias gerarSenhaBooking="gerarSenha -d www.booking.com -l $YAHOO -t 16 -s compra"
 alias gerarSenhaSoftBlue="gerarSenha -d www.softblue.com.br -l $YAHOO -t 16 -s estudo"
 alias gerarSenhaPagSeguro="gerarSenha -d pagseguro.uol.com.br -l $YAHOO -s compra -t 16"
 alias gerarSenhaAwsAmazon="gerarSenha -d signin.aws.amazon.com -l $IFF -t 16 -s compra"
 alias gerarSenhaTrello="gerarSenha -d trello.com -l $GMAIL -t 16 -s social"
-alias gerarSenhaCpTurbo="gerarSenha  -d www.cpturbo.org -l $USERNAME1 -t 16 -s entretenimento"
+alias gerarSenhaCpTurbo="gerarSenha  -d www.cpturbo.org -l $USERNAME1 -t 16 -s entretenimento"
 alias gerarSenhaWalmart="gerarSenha -d www.walmart.com.br -l $YAHOO -t 16 -s compra"
 alias gerarSenhaNetFlix="gerarSenha -d www.netflix.com -l $YAHOO -t 8 -s entretenimento"
 alias gerarSenhaVerTV="gerarSenha -d minha.vertv.com.br -l $GMAIL -t 16 -s compra"
@@ -103,3 +95,4 @@ alias gerarSenhaHPCTreinamentos="gerarSenha -d hpc.myedools.com -l $GMAIL -t 13 
 alias gerarSenhaRedacaoOnline="gerarSenha -d redacaonline.com.br -l $GMAIL -t 15 -s estudo"
 alias gerarSenhaBinary="gerarSenha -d www.binary.com -l $GMAIL -t 18 -s compra"
 alias gerarSenhaPaypal="gerarSenha -d www.paypal.com -l $GMAIL -t 16 -s compra2"
+alias gerarSenhaGustavo="gerarSenha -d gustavo.com -l $HOTMAIL -t 14 -s compra"
