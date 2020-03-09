@@ -95,3 +95,6 @@ alias gerarSenhaHPCTreinamentos="gerarSenha -d hpc.myedools.com -l $GMAIL -t 13 
 alias gerarSenhaRedacaoOnline="gerarSenha -d redacaonline.com.br -l $GMAIL -t 15 -s estudo"
 alias gerarSenhaBinary="gerarSenha -d www.binary.com -l $GMAIL -t 18 -s compra"
 alias gerarSenhaPaypal="gerarSenha -d www.paypal.com -l $GMAIL -t 16 -s compra2"
+alias gerarSenhaBitly="gerarSenha -d bitly.com -l $USERNAME2 -t 10 -s trabalho"
+alias gerarSenhaCampusParty="gerarSenha -d campuse.ro -l $USERNAME2 -t 16 -s estudo"
+alias gerarSenhaVisaCheckout="gerarSenha -d www.visa.com.br -l $GMAIL -t 16 -s compra3"
