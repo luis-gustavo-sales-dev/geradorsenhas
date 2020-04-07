@@ -100,3 +100,5 @@ alias gerarSenhaCampusParty="gerarSenha -d campuse.ro -l $USERNAME2 -t 16 -s est
 alias gerarSenhaVisaCheckout="gerarSenha -d www.visa.com.br -l $GMAIL -t 16 -s compra3"
 alias gerarSenhaOrigamid="gerarSenha -d www.origamid.com -l $GMAIL -t 16 -s estudo"
 alias gerarSenhaBibliotecaCatolica="gerarSenha -d www.bibliotecacatolica.com.br -l $GMAIL -t 16 -s espiritualidade"
+alias gerarSenhaEsab="gerarSenha -d $USERNAME2 -l www.esab.edu.br -t 16 -s estudo -c ln"
+alias gerarSenhaUbook="gerarSenha -d www.ubook.com -l $GMAIL -t 12 -s estudo2"
