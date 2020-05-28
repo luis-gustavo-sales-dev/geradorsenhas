@@ -104,3 +104,4 @@ alias gerarSenhaEsab="gerarSenha -d $USERNAME2 -l www.esab.edu.br -t 16 -s estud
 alias gerarSenhaUbook="gerarSenha -d www.ubook.com -l $GMAIL -t 12 -s estudo2"
 alias gerarSenhaBurgerGrillCampos="gerarSenha -d www.burgergrillcampos.com.br -l $GMAIL -t 16 -s entretenimento"
 alias gerarSenhaQuantUX="gerarSenha -d www.quant-ux.com -l $GMAIL -t 16 -s estudo"
+alias gerarSenhaMongoDBUniversity="gerarSenha -d account.mongodb.com -l $GMAIL -t 16 -s estudo"
