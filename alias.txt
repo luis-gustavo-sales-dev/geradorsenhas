@@ -115,3 +115,5 @@ alias gerarSenhaPagSeguroGmail="gerarSenha -d pagseguro.uol.com.br -l $GMAIL -t 
 alias gerarSenhaDLTEC="gerarSenha -d www.dltec.com.br -l $GMAIL -t 16 -s estudo"
 alias gerarSenhaOracleCloud="gerarSenha -d myservices.us.oraclecloud.com -l elephizti@gmail.com -t 16 -s estudo"
 alias gerarSenhaNotion="gerarSenha -d www.notion.so -l $IFF -t 16 -s estudo"
+alias gerarSenhaMercadoPago="gerarSenha -d www.mercadopago.com.br -l $YAHOO -t 16 -s compras"
+alias gerarSenhaAnkiWeb="gerarSenha -d ankiweb.net -l $GMAIL -t 12 -s estudo"
