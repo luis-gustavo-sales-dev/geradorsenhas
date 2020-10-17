@@ -117,3 +117,6 @@ alias gerarSenhaOracleCloud="gerarSenha -d myservices.us.oraclecloud.com -l elep
 alias gerarSenhaNotion="gerarSenha -d www.notion.so -l $IFF -t 16 -s estudo"
 alias gerarSenhaMercadoPago="gerarSenha -d www.mercadopago.com.br -l $YAHOO -t 16 -s compras"
 alias gerarSenhaAnkiWeb="gerarSenha -d ankiweb.net -l $GMAIL -t 12 -s estudo"
+alias gerarSenhaJhipsterStart="gerarSenha -d start.jhipster.tech -l $USERNAME3 -t 16 -s estudo"
+alias gerarSenhaSteam="gerarSenha -d store.steampowered.com -l luistrader -t 16 -s entretenimengo"
+alias gerarSenhaElosClube="gerarSenha -d elos.izio.com.br -l $CPF -t 6 -c n -s compras"
