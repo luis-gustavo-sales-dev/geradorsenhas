@@ -135,3 +135,5 @@ alias gerarSenhaAsTreinamentos="gerarSenha -d cursovip.astreinamentos.com.br -l 
 alias gerarSenha4LinuxGmailNetClass="gerarSenha -d netclass.4linux.com.br -l $GMAIL -t 18 -s estudo"
 alias gerarSenhaDankiCodeYahoo="gerarSenha -d cursos.dankicode.com -l $YAHOO -t 16 -s entretenimento"
 alias gerarSenhaUnityGmail="gerarSenha -d id.unity.com -l $GMAIL -t 16 -s entretenimento"
+alias gerarSenhaAdobeServices="gerarSenha -d auth.services.adobe.com -l $GMAIL -t 16 -s entretenimento"
+alias gerarSenhaGranCursosOnlineVal="gerarSenha -d grancursosonline.com.br -l lugu.tecnologiadainformacao@gmail.com -t 16 -s estudo"
