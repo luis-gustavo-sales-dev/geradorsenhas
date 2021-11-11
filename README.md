@@ -1,3 +1,5 @@
+Esse repositorio não possui nenhum projeto importante. Se você está aqui para ver o meu trabalho, ignore-o.
+
 Defina as variáveis no arquivo bashrc:
 #Variaveisgeradorsenha
 export GMAIL='aaaaa@gmail.com'
