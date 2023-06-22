@@ -158,6 +158,7 @@ alias gerarSenhaEduzz="gerarSenha -d eduzz.com -l $GMAIL -t 16 -s entretenimento
 alias gerarSenhaKotas="gerarSenha -d kotas.com.br -l $GMAIL -t 13 -s estudo"
 alias gerarSenhaAcessoCidadaoES="gerarSenha -d acessocidadao.es.gov.br -l $YAHOO -t 15 -s governo"
 alias gerarSenhaOroroTv="gerarSenha -d ororo.tv -l $GMAIL -t 12 -s estudo"
+<<<<<<< HEAD
 alias gerarSenhaMailtrapIO="gerarSenha -d mailtrap.io -l $GMAIL -t 13 -s estudo"
 alias gerarSenhaIngressoCom="gerarSenha -d ingresso.com -l $GMAIL -t 13 -s entretenimento"
 alias gerarSenhaTwitchTv="gerarSenha -d twitch.tv -l luis_gustavo_sales -t 16 -s entretenimento"
